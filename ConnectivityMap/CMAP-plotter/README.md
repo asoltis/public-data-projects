@@ -10,12 +10,12 @@ Data Sources:
 Data from: https://clue.io/data/CMap2020#LINCS2020
 
 Files considered:
-    Meta:
+    - Meta:
         - cellinfo_beta.txt
         - compoundinfo_beta.txt
         - geneinfo_beta.txt
         - siginfo_beta.txt
-    Data: 
+    - Data
         - level5_beta_trt_cp_n720216x12328.gctx
 
 Information on data levels: https://clue.io/connectopedia/data_levels
