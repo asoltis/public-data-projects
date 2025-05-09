@@ -9,7 +9,7 @@ Data Sources:
 -------------
 Data from: https://clue.io/data/CMap2020#LINCS2020
 
-Files considered:
+- Files considered:
     - Meta:
         - cellinfo_beta.txt
         - compoundinfo_beta.txt
